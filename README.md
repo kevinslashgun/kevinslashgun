@@ -1,15 +1,15 @@
 ### Hi there 👋
-<br>
-My name is Kevin, I'm from Italy...
-I'm "uint age = 23; if(newYearHasPassed()) age++;"
-🔭 I’m currently working on finishing my computer science university career.
-🌱 I’m currently learning C# and Web Applications.
-👯 I’m looking to collaborate on anything that can teach me something new!
-🤔 I’m looking for help with getting started here on this community.
-💬 Ask me about hobbies and passions.
-📫 How to reach me: @kevinslashgan or Coemgenus#4411
-😄 Pronouns: He/Him.
-⚡ Fun fact: I switched from INTP to INFP
+
+My name is Kevin, I'm from Italy...<br>
+I'm "uint age = 23; if(newYearHasPassed()) age++;"<br>
+🔭 I’m currently working on finishing my computer science university career.<br>
+🌱 I’m currently learning C# and Web Applications.<br>
+👯 I’m looking to collaborate on anything that can teach me something new!<br>
+🤔 I’m looking for help with getting started here on this community.<br>
+💬 Ask me about hobbies and passions.<br>
+📫 How to reach me: @kevinslashgan or Coemgenus#4411<br>
+😄 Pronouns: He/Him.<br>
+⚡ Fun fact: I switched from INTP to INFP<br>
 
 ### END
 
